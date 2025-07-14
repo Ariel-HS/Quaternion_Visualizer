@@ -10,6 +10,7 @@ Note: bagian di bawah ini yang ditandai `>` bisa dihapus kalo udah ga dipake gui
 ## 💡 Latar Belakang
 > Bebas ini diisi apa, tapi mainly isinya brijing sebelum masuk ke main content nya di deskripsi tugas
 
+
 **Contoh yang bagus by Kak Dimas - Gomoku Bot Competition:**
 
 Masih ingatkah kalian dengan tugas besar 1 stima kalian ? Kalian diminta membuat bot untuk memenangkan sebuah game kapal perang. Tujuan dari task ini adalah sama, yaitu membuat bot dengan menggunakan algoritma greedy. Tapi pada kali ini, game yang berusaha dimenangkan adalah Gomoku atau sering disebut five in a row. Berbeda dengan task lainnya, task ini akan membandingkan hasil kerja kalian dengan teman seleksi lainnya dalam sebuah kompetisi. Jadi distribusi skor akan berdasarkan pemenang dari kompetisi. Maka kalian harus bisa membuat bot seoptimal mungkin. Good Luck Have Fun!
@@ -26,6 +27,8 @@ Masih ingatkah kalian dengan tugas besar 1 stima kalian ? Kalian diminta membuat
 
 ## 📝 Spesifikasi Tugas
 > Jelasin secara detail tugasnya ngapain.
+
+Tugas Anda adalah membuat program yang dapat memvisualisasikan rotasi menggunakan quaternion dan euler angles. Visualisasi dapat menggunakan library eksternal, namun kalkulasi rotasi harus dibuat secara manual (kecuali jika Anda mengerjakan bonus).
 
 **Contoh yang bagus by Kak Kyle - LZW WebApp:**
 
