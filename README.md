@@ -11,6 +11,7 @@ Note: bagian di bawah ini yang ditandai `>` bisa dihapus kalo udah ga dipake gui
 > Bebas ini diisi apa, tapi mainly isinya brijing sebelum masuk ke main content nya di deskripsi tugas
 
 
+
 **Contoh yang bagus by Kak Dimas - Gomoku Bot Competition:**
 
 Masih ingatkah kalian dengan tugas besar 1 stima kalian ? Kalian diminta membuat bot untuk memenangkan sebuah game kapal perang. Tujuan dari task ini adalah sama, yaitu membuat bot dengan menggunakan algoritma greedy. Tapi pada kali ini, game yang berusaha dimenangkan adalah Gomoku atau sering disebut five in a row. Berbeda dengan task lainnya, task ini akan membandingkan hasil kerja kalian dengan teman seleksi lainnya dalam sebuah kompetisi. Jadi distribusi skor akan berdasarkan pemenang dari kompetisi. Maka kalian harus bisa membuat bot seoptimal mungkin. Good Luck Have Fun!
@@ -41,17 +42,10 @@ Berikut merupakan spesifikasinya:
 
 **Contoh yang bagus by Kak Willy - Course Scheduler:**
 
-Course Scheduler dibuat <b>berbasis web</b>. Bahasa dan Framework dibebaskan untuk Frontend dan tetapi wajib menggunakan <b>Golang</b> untuk Backend dan <b>SQL</b> untuk Basis Data. Course Scheduler harus mengandung beberapa fitur utama di bawah ini:
+Quaternion Visualizer dibuat <b>berbasis desktop</b>. Bahasa dan Framework dibebaskan dan visualisasi 3D Shape diperbolehkan menggunakan library/module ekternal, namun <b>kalkulasi (rotasi) Quaternion & Euler wajib dibuat sendiri</b>. Course Scheduler harus mengandung beberapa fitur utama di bawah ini:
 
-1. Pembagian <b>Frontend</b> dan <b>Backend</b> wajib dibuat pada repository GitHub yang terpisah.
-2. Penambahan data MK (Mata Kuliah) yang dapat dilakukan baik secara satu per satu maupun batch dengan file berformat <b>.json</b>. Data MK terdiri dari:
-    - Nama MK
-    - Jumlah SKS MK
-    - Jurusan atau Fakultas MK
-    - Semester minimal pengambilan MK
-    - Prediksi nilai MK
-        - <b>Note:</b> Nilai berupa A, AB, B, BC, C, D, atau E
-3. Aplikasi dapat menerapkan algoritma <b>Dynamic Programming</b> untuk mendapatkan seluruh MK yang dapat diambil sehingga memberikan nilai maksimal dengan input oleh pengguna sebagai berikut.
+1. Input 3D Shape (e.g. cube, pyramid)  yang dapat dilakukan baik secara satu per satu maupun batch dengan file berformat <b>.vtk</b>. 
+2. Aplikasi dapat menerapkan algoritma <b>Dynamic Programming</b> untuk mendapatkan seluruh MK yang dapat diambil sehingga memberikan nilai maksimal dengan input oleh pengguna sebagai berikut.
     - Jurusan atau Fakultas
     - Semester pengambilan MK saat ini
     - Batasan minimal SKS yang dapat diambil
