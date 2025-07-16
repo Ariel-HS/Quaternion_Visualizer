@@ -47,8 +47,6 @@ Quaternion Visualizer dibuat berbasis <b>Desktop Graphical User Interface (GUI)<
 2. Implementasikan <b>Graphics Engine</b> sendiri yang dapat *menggambarkan* Objek 3D dan visualisasi lainnya (Axis of Rotation, etc) dalam layar 2D, secara manual tanpa bantuan library/module eksternal. Library/module eksternal (e.g. pygame) boleh digunakan sebatas menampilkan grafik pada layar, i.e. sebagai *2D canvas* yang dapat menggambarkan titik dan garis. Graphics Engine wajib memiliki <b>Camera Control</b> yang memungkinkan pengguna untuk merubah perspektif layar.
 
 ## 📂 Pengerjaan dan Pengumpulan
-> Ini isinya guide gimana kerjainnya dan gimana ngumpulnya.
-> Kalo bisa dibuat seragam sama template ini, tapi kalo emang harus beda (misal perlu bikin laporan, atau ketentuan bot misal maksimal 5 submisi), bisa diubah aja sesuai kebutuhan.
 1. Buatlah repositori **private** pada github masing-masing dan invite `Ariel-HS` dalam repositori tersebut.
 2. Berkas yang dikumpulkan berupa **link rilis tag ke repositori github** yang telah dibuat dengan ketentuan sebagai berikut.
     - Memberikan tag `vn` pada commit terakhir Anda setiap kali ingin melakukan submisi dengan `n` adalah jumlah submisi yang telah dilakukan. (contoh: `v1` untuk submisi pertama).
