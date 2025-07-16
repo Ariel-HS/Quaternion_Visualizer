@@ -19,7 +19,7 @@ Tugas Anda adalah membuat program yang dapat memvisualisasikan rotasi menggunaka
 
 Berikut merupakan spesifikasinya:
 
-### Spesifikasi Wajib (1600 Poin)
+### Spesifikasi Wajib (1000 Poin)
 
 Quaternion Visualizer dibuat berbasis <b>Desktop Graphical User Interface (GUI)</b>. Bahasa dan Framework dibebaskan dan visualisasi Objek 3D diperbolehkan menggunakan library/module ekternal, namun <b>kalkulasi rotasi Quaternion wajib dibuat sendiri</b>. Quaternion Visualizer harus mengandung beberapa fitur utama di bawah ini:
 
@@ -41,7 +41,7 @@ Quaternion Visualizer dibuat berbasis <b>Desktop Graphical User Interface (GUI)<
     - Cara menjalankan program
     - Referensi 
 
-### Spesifikasi Bonus (2700 Poin)
+### Spesifikasi Bonus (2100 Poin)
 
 1. Implementasikan <b>2 (dua)</b> metode rotasi lain selain Quaternion (e.g. Euler Angle, Tait–Bryan angles). Aplikasi harus dilengkapi dengan fitur input metode yang digunakan, beserta input tambahan lainnya (e.g. Axis of Rotation dan Angle of rotation sesuai dengan metode yang digunakan). Visualisasi tetap harus <b>lengkap</b>, mencakup tetapi tidak terbatasi Axis of Rotation dan Angle of Rotation (menyesuaikan dengan metode yang digunakan). 
 2. Implementasikan <b>Graphics Engine</b> sendiri yang dapat *menggambarkan* Objek 3D dan visualisasi lainnya (Axis of Rotation, etc) dalam layar 2D, secara manual tanpa bantuan library/module eksternal. Library/module eksternal (e.g. pygame) boleh digunakan sebatas menampilkan grafik pada layar, i.e. sebagai *2D canvas* yang dapat menggambarkan titik dan garis. Graphics Engine wajib memiliki <b>Camera Control</b> yang memungkinkan pengguna untuk merubah perspektif layar.
