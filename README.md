@@ -34,9 +34,9 @@ Quaternion Visualizer dibuat berbasis <b>Desktop Graphical User Interface (GUI)<
 9. Aplikasi dapat menampilkan <b>visualisasi</b> Angle of Rotation dalam bentuk label di sekitar Axis of Rotation.
 10. Visualisasi harus berwarna dan berlabel dengan lengkap supaya dapat membedakan antara semua visual yang ada.
 11. Buatlah readme pada masing-masing repository yang menjelaskan:
-    - Deskripsi Program
+    - Deskripsi Program & Fitur Program
     - Teknologi dan Framework
-    - Penjelasan Quaternion dan Kegunaannnya
+    - Penjelasan Quaternion dan Kegunaannya
     - Screenshot Hasil Percobaan
     - Cara menjalankan program
     - Referensi 
